@@ -1,1 +1,1 @@
-# -PerceptronsProject
+In this assignment, you will use the sklearn perceptron model to classify irises according to sepal and petal dimensions as well as identify forged banknotes based on image statistical data. This will serve as a machine learning "warm up" as well as a way to validate your initial Python environment setup. Google Colab should have all required libraries pre-installed. If using your own environment, you will need the following libraries: sklearn, numpy, and pandas.# -PerceptronsProject
